@@ -4,6 +4,7 @@
  </a>
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=EmirSalkin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="center">A passionate computer developer student from Turkey</h3>
 
@@ -26,17 +27,19 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 
 
 
 
-# Github Stats
+# 📊 GitHub Stats:
 
  <br />
  
   <p align="center">
   <a>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirsalkin&show_icons=true&locale=en&layout=compact" alt="emirsalkin"" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirSalkin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="emirsalkin"" />
   </a>
 </p>
 
@@ -47,7 +50,7 @@
  
  <p align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=emirsalkin&show_icons=true&locale=en" alt="emirsalkin" width="55%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmirSalkin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="55%" />
   </a>
 </p>
  
@@ -59,9 +62,11 @@
   
   <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emirsalkin&" alt="emirsalkin" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmirSalkin&theme=dark&hide_border=false" alt="emirsalkin" />
   </a>
 </p>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmirSalkin/EmirSalkin/output/github-contribution-grid-snake-dark.svg">
