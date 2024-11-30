@@ -4,7 +4,7 @@
  </a>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=EmirSalkin&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=EmirSalkin&icon=9&color=8)](https://visitcount.itsvg.in)
 
 <h3 align="center">A passionate computer developer student from Turkey</h3>
 
@@ -21,7 +21,7 @@
 </p>
 
 
-# 💻 Languages and Tools:
+# 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,14 +32,13 @@
 
 
 
-
 # 📊 GitHub Stats:
 
  <br />
  
   <p align="center">
   <a>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirSalkin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="emirsalkin"" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirSalkin&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="emirsalkin"" />
   </a>
 </p>
 
@@ -50,7 +49,7 @@
  
  <p align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmirSalkin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="55%" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmirSalkin&theme=dracula&hide_border=true" width="55%" />
   </a>
 </p>
  
@@ -62,7 +61,7 @@
   
   <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmirSalkin&theme=dark&hide_border=false" alt="emirsalkin" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmirSalkin&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="emirsalkin" />
   </a>
 </p>
 
