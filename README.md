@@ -38,38 +38,9 @@
 
 
 # 📊 GitHub Stats:
-
- <br />
- 
-  <p align="center">
-  <a>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirSalkin&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="emirsalkin"" />
-  </a>
-</p>
-
-  
-<br />
-
-
- 
- <p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmirSalkin&theme=dracula&hide_border=true" width="55%" />
-  </a>
-</p>
- 
-
- 
- <br />
- 
-  
-  
-  <p align="center">
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmirSalkin&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="emirsalkin" />
-  </a>
-</p>
-
+![](https://github-readme-stats.vercel.app/api?username=emirsalkin&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=emirsalkin&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emirsalkin&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <picture>
@@ -77,3 +48,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmirSalkin/EmirSalkin/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EmirSalkin/EmirSalkin/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
