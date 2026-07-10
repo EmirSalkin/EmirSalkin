@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently student **Universty**
 
-- 🌱 I’m currently learning **Data Science / Computer Vision**
+- 🌱 I’m currently learning **AI Engineer / Backend Engineer / Cloud Engineer**
 
 - 📫 How to reach me **emirsalkin@gmail.com**
 
