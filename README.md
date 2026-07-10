@@ -37,13 +37,13 @@
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-</div>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=EmirSalkin&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=EmirSalkin&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=EmirSalkin&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=emirsalkin&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=emirsalkin&theme=default&hide_border=false)<br/>
@@ -56,12 +56,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EmirSalkin/EmirSalkin/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-
-
-
----
-[![](https://komarev.com/ghpvc/?username=EmirSalkin&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
